@@ -1,0 +1,9 @@
+2016-12-06 14:32:00,992 - INFO - www.google.com has A/CNAME of 216.58.223.4
+2016-12-06 14:32:00,992 - INFO - www.google.com status is NOERROR
+2016-12-06 14:32:02,508 - INFO - cnn.com has A/CNAME of 151.101.0.73
+2016-12-06 14:32:02,508 - INFO - cnn.com has A/CNAME of 151.101.128.73
+2016-12-06 14:32:02,508 - INFO - cnn.com has A/CNAME of 151.101.192.73
+2016-12-06 14:32:02,508 - INFO - cnn.com has A/CNAME of 151.101.64.73
+2016-12-06 14:32:02,508 - INFO - cnn.com status is NOERROR
+2016-12-06 14:32:03,285 - INFO - dyndns.org has A/CNAME of 204.13.248.116
+2016-12-06 14:32:03,286 - INFO - dyndns.org status is NOERROR
